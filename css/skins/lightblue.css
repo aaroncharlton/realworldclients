@@ -1,0 +1,11 @@
+html {
+  /* wood planking background source: https://unsplash.com/photos/3tbtq3oCQ1s */
+    background-image: url("https://images.unsplash.com/photo-1547044479-59ce6c0a784a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+}
+a {
+    color: #0093d8;
+}
+a:hover {
+    color: #00a2ee;
+    border-bottom: 1px solid #00a2ee;
+}
